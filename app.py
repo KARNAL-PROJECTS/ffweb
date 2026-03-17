@@ -37,7 +37,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
 <body class="p-4 max-w-xl mx-auto pb-10">
 
     <header class="text-center py-8">
-        <h1 class="text-4xl font-black text-blue-500 italic tracking-tighter">STILLRARE</h1>
+        <h1 class="text-4xl font-black text-blue-500 italic tracking-tighter">BAKI</h1>
         <p class="text-slate-500 text-[10px] uppercase tracking-[0.3em] mt-1">Garena Tool Suite</p>
     </header>
 
